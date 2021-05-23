@@ -1,6 +1,6 @@
 ### Hello I'm Nimeshika 👋
 
-- 🔭 I’m Undergraduate
+- 🔭 I’m Undergraduate 
 
 ![Nimeshika98 github stats](https://github-readme-stats.vercel.app/api?username=nimeshika98&show_icons=true&theme=radical)
 
@@ -12,9 +12,10 @@
 ### Familiar Technology Stacks
 
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
-[![PHP](https://img.shields.io/badge/-PHP-%2314354C?style=flat&logo=python&logoColor=white)](https://www.learn-php.org//)
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://www.learn-c.org/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 
