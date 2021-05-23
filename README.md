@@ -14,6 +14,7 @@
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
 [![PHP](https://img.shields.io/badge/-PHP-%2314354C?style=flat&logo=python&logoColor=white)](https://www.learn-php.org//)
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://www.learn-c.org/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 
